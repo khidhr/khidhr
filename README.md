@@ -1,3 +1,6 @@
+<img  alt="Coding" width="400" src = "[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://www.canva.com/design/DAFP5FB5C2M/VMUtSRKcnOTwUkd2c0p6Kg/view?utm_content=DAFP5FB5C2M&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)"> 
+
+
 <h1 align="center">Hi 👋, I'm Halab khidhr</h1>
 <h3 align="center">A passionate data science and artificial intelligence engineering student</h3>
 <img align="right" alt="Coding" width="400" src = "https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"> 
