@@ -4,6 +4,7 @@
   <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
     src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFP5FB5C2M&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
+ https://www.canva.com/design/DAFP5FB5C2M/view
 </div>
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFP5FB5C2M&#x2F;view?utm_content=DAFP5FB5C2M&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Monochrome Minimalist Digital Marketer LinkedIn Banner</a> par khidhr halab
 <h1 align="center">Hi 👋, I'm Halab khidhr</h1>
