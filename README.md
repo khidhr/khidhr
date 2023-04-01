@@ -1,4 +1,4 @@
-[![MasterHead](https://www.canva.com/design/DAFP5FB5C2M/VMUtSRKcnOTwUkd2c0p6Kg/view?mode=prototype)](https://rishavchanda.io)
+[![MasterHead](https://www.canva.com/design/DAFP5FB5C2M/view?embed)](https://rishavchanda.io)
 
 
 
