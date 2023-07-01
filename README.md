@@ -9,7 +9,7 @@
 
 - 🌐 here is my portfolio **https://khidhr.github.io/khidhr-portfolio/**
   
-🔭 I’m currently working on **web traffic classification**
+- 🔭 I’m currently working on **web traffic classification**
 
 - 🌱 I’m currently learning **jax**
 
