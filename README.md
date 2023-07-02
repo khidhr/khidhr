@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khidhr&label=Profile%20views&color=0e75b6&style=flat" alt="khidhr" /> </p>
 
-- 🌐 here is my portfolio **[khidhr-portfolio](https://khidhr.github.io/khidhr-portfolio/)**
+- 🌐 here is  **[my portfolio](https://khidhr.github.io/khidhr-portfolio/)**
   
 - 🔭 I’m currently working on **web traffic classification**
 
