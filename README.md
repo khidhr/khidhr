@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **halabkhidhr@gmail.com**
 
-- ⚡ Fun fact **coffee is not my favourite drink , it's tea**
+- ⚡ **I turn ATAY into code**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
