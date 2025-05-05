@@ -1,4 +1,4 @@
-![logo](https://github.com/khidhr/khidhr/blob/main/Alternatif%201.png)
+![logo](https://github.com/khidhr/khidhr/blob/main/Banner.png)
 
 <h1 align="center">Hi 👋, I'm Halab khidhr</h1>
 <h3 align="center">A passionate data science and artificial intelligence engineering student</h3>
