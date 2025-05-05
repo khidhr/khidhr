@@ -1,4 +1,4 @@
-![logo](https://github.com/khidhr/khidhr/blob/main/Banner.png)
+![logo](https://github.com/khidhr/khidhr/Banner.png)
 
 <h1 align="center">Hi 👋, I'm Halab khidhr</h1>
 <h3 align="center">A passionate data science and artificial intelligence engineering student</h3>
@@ -9,9 +9,9 @@
 
 - 🌐 here is  **[my portfolio](https://khidhr.github.io/khidhr-portfolio/)**
   
-- 🔭 I’m currently working on **web traffic classification**
+- 🔭 I’m currently working on **Multi-omics integration in personalised treatment**
 
-- 🌱 I’m currently learning **jax**
+- 🌱 I’m currently learning **bio-informatics**
 
 - 💬 Ask me about **machine learning**
 
