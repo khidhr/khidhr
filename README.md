@@ -1,7 +1,7 @@
 ![logo](https://github.com/khidhr/khidhr/blob/main/Banner.png)
 
 <h1 align="center">Hi 👋, I'm Halab khidhr</h1>
-<h3 align="center"Data scientist and researcher @ Prime lab, Moncton University</h3>
+<h3 align="center"> Data scientist and researcher @ Prime lab, Moncton University</h3>
 <img align="right" alt="Coding" width="400" src = "https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"> 
 
 
@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **bio-informatics**
 
-- 💬 Ask me about **machine learning**
+- 💬 Ask me about **quantum machine learning**
 
 - 📫 How to reach me **halabkhidhr@gmail.com**
 
